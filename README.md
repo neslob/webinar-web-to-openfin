@@ -141,7 +141,7 @@ From this same document we can specify a runtime version & desktop shortcut info
     },
     "runtime": {
         "arguments": "",
-        "version": "6.49.20.3"
+        "version": "stable"
     },
     "shortcut": {
         "company": "MyCompany",
